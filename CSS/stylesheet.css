@@ -259,6 +259,8 @@ h1{
   	.slideshow-container{
   		position: relative;
   		margin: auto;
-  		left: 100px;
+  		flex-direction: column;
+    	justify-content: center;
+    	align-items: center;
   	}
 }
