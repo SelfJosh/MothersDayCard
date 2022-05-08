@@ -258,6 +258,6 @@ h1{
 
   	.slideshow-container{
   		position: relative;
-  		margin: auto;
+  		margin: 0 auto;
   	}
 }
